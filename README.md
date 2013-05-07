@@ -1,6 +1,6 @@
 ricardomonagas.com
 ==================
 
-Repositorio de mi sitio web.
+Personal Website Repository / Repositorio de mi sitio web. 
 
-Pueden contactarme a través de @rmmonagas.
+Don't hesitate to contact me at: @rmmonagas / Pueden contactarme a través de @rmmonagas.
